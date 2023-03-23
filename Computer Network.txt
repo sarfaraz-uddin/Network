@@ -1,0 +1,6 @@
+1. getmac //to get mac address.
+2. The mac address of the computers are different but some of the mac address are same of different computer
+	because of the same organization that created it.
+3. Organization bit first six character of MAC address and the last six is random. 
+4. We can have more than one Ip Address in the computer if we have more than one Network Interface Card(NIC Card).
+5. ipconfig //to get Ip address.
